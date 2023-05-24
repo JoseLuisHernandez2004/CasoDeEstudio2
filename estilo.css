@@ -1,0 +1,26 @@
+*{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 3px;
+}
+body{
+    background-color: rgb(196, 224, 205);
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(209, 187, 159);
+}
+#sech{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 5px;
+    color: rgb(87, 76, 153);
+}
